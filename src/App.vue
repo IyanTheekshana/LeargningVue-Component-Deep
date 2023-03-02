@@ -69,6 +69,6 @@ html {
 
 body {
   margin: 0;
-  background-color: rgb(119, 119, 119);
+  /* background-color: rgb(119, 119, 119); */
 }
 </style>
